@@ -35,6 +35,6 @@ For the time being this mod has full translations to following languages:
 
 If you'd like to translate this mod, send me your translation file and I will add it with credits in-place.
 ## Links and Copyrights
-The development is performed on GitHub: https://github.com/rez-spb/harder_hotwire
-License: GPL-3.0
+The development is performed on GitHub: https://github.com/rez-spb/harder_hotwire  
+License: GPL-3.0 (see LICENSE file).  
 Yes, you no longer can misappropriate the code/idea and add your name to the beginning without repercussions.
