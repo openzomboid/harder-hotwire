@@ -1,3 +1,6 @@
+-- Translation: rez
+-- Steam: http://steamcommunity.com/profiles/76561198071681605
+
 ContextMenu_EN = {
 	ContextMenu_VehicleHotwireSkill = "You need <br>Electrical level 4 and<br>Mechanics level 6 and<br>Metalworking level 1<br>to hotwire",
 	ContextMenu_VehicleUnhotwire = "Un-hotwire Engine",

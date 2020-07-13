@@ -1,3 +1,6 @@
+-- Translation: rez
+-- Steam: http://steamcommunity.com/profiles/76561198071681605
+
 ContextMenu_RU = {
 	ContextMenu_VehicleHotwireSkill = "Вам нужны ключи или<br>Электрика 4 и<br>Механика 6<br>чтобы завести без ключей",
 	ContextMenu_VehicleUnhotwire = "Убрать провода",
