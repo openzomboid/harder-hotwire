@@ -4,6 +4,8 @@ Project Zomboid mod that makes hotwiring cars harder.
 This mod is mostly useful for multiplayer when cars are enabled.  
 Current vanilla skill level requirements of 1 Electrical and 2 Mechanics can be gained with perks from the very start, so many newcomers to servers can hotwire and take others' cars without significant effort.  
 As a bonus the mod has an ability to revert damage done to the cars and even craft a key if your skills are high enough.
+
+**Compatibility:** `40.43`
 ## New Skill Requirements
 ### Hotwire
 * Metalworking: 1;
