@@ -1,3 +1,7 @@
+-- author: rez
+-- version: 0.2 (2020-07-13)
+-- based on: 40.43
+
 require "TimedActions/ISBaseTimedAction"
 
 get_key = ISBaseTimedAction:derive("get_key")
