@@ -28,11 +28,11 @@ local key_metalworking = 8;
 
 
 function onUnHotwire(playerObj)
-	ISTimedActionQueue.add(ISUnHotwireVehicle:new(playerObj));
+	ISTimedActionQueue.add(unhotwire:new(playerObj));
 end
 
 function onGetKey(playerObj)
-	ISTimedActionQueue.add(ISGetKey:new(playerObj));
+	ISTimedActionQueue.add(get_key:new(playerObj));
 end
 
 function harder_hotwire_showRadialMenu(playerObj)
