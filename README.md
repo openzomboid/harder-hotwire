@@ -5,7 +5,9 @@ This mod is mostly useful for multiplayer when cars are enabled.
 Current vanilla skill level requirements of 1 Electrical and 2 Mechanics can be met with perks from the very start, so many newcomers can hotwire and take others' cars without significant effort. Boosting requirements negates that.  
 As a bonus the mod has an ability to revert damage done to hotwired cars and even craft a key if your skill is high enough.
 
-**Compatibility:** `40.43`, `41.37`.
+### Compatibility
+Project Zomboid: `40.43`, `41.37`  
+Other mods: mods that overwrite `ISVehicleMenu.showRadialMenu` will be incompatible.
 ## New Skill Requirements
 ### Hotwire
 * Metalworking: 1;
